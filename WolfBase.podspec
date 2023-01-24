@@ -28,5 +28,5 @@ Created and maintained by Wolf McNally, who hates reinventing the wheel on every
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'WolfBase/WolfBase/**/*'
+  s.source_files = 'Sources/WolfBase/**/*'
 end
