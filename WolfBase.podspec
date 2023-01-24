@@ -22,7 +22,7 @@ Created and maintained by Wolf McNally, who hates reinventing the wheel on every
                        DESC
 
   s.homepage         = 'https://github.com/thantthet/WolfBase'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'BSD-2', :file => 'LICENSE.md' }
   s.author           = { 'thantthet' => 't@ttkz.me' }
   s.source           = { :git => 'https://github.com/thantthet/WolfBase.git', :branch => 'master' }
 
