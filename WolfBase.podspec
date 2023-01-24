@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 Created and maintained by Wolf McNally, who hates reinventing the wheel on every project.
                        DESC
 
-  s.homepage         = 'https://github.com/thant thet/WolfBase'
+  s.homepage         = 'https://github.com/thantthet/WolfBase'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'thantthet' => 't@ttkz.me' }
   s.source           = { :git => 'https://github.com/thantthet/WolfBase.git', :branch => 'master' }
